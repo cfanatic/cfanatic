@@ -4,4 +4,4 @@
 
 👨‍💻 My hobby is software development on GNU/Linux in C++, Python and Go
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/agzk) if you are interested!
+📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/agzk) if you are interested!
