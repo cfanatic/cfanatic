@@ -1,6 +1,6 @@
 ### Welcome!
 
-🚘 I am a software engineer in the field of SAE L2+ and L3 Automated Driving
+🚘 I am a software engineer in the field of SAE L2+ Automated Driving
 
 👨‍💻 My hobby is software development on GNU/Linux in C++, Python and Go
 
